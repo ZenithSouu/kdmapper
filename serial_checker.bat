@@ -2,7 +2,7 @@
 title Serial Checker
 echo.
 color 90
-echo Made By NexShop
+echo Made By Whyr Shop
 echo.
 color 90 
 :start
